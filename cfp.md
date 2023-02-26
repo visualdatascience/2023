@@ -4,7 +4,7 @@ title: Call for Participation
 permalink: /cfp/
 ---
 
-We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS events at both [ACM KDD](https://www.kdd.org/kdd2022/) and [IEEE VIS](http://ieeevis.org/year/2022/welcome), and will be archived in the IEEE Xplore digital library (associated publishing fees may apply).  This event accepts full and short paper submissions for talks.
+We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS [IEEE VIS](http://ieeevis.org/year/2023/welcome), and will be archived in the IEEE Xplore digital library (associated publishing fees may apply).  This event accepts full and short paper submissions for talks.
 
 ### Full Papers (up to 8 pages)
 
@@ -27,56 +27,18 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 ### Submission Systems & Dates
 
-### VDS @ KDD
-#### VDS @ KDD Submission System
-
-To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin). After creating an account, click the submission link: [https://easychair.org/my/conference?conf=vdskdd2022](https://easychair.org/my/conference?conf=vdskdd2022) for paper submission.
-
-#### VDS @ KDD Important Dates
-
-Thur., ~~May 26th~~ June 2nd, 2022, 5:00 pm PDT: Paper and Abstract Submission 
-
-Mon., June 20th, 2022: Author Notification
-
-Mon, June. 27, 2022: Camera-ready Copy for Accepted Submissions
-
-August 14, 2022: VDS Workshop at ACM KDD
-
 ### VDS @ VIS
+
 #### VDS @ VIS Submission System
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2023" (Conference/Journal) -> "VDS 2023 Papers" (Track) for VDS 2023.
 
 #### VDS @ VIS Important Dates
 
-Thur., ~~July 7th~~ July 14th, 2022, 5:00 pm PDT: Paper and Abstract Submission 
+Thur, July 13, 2023 5:00 pm AOE: Paper and Abstract Submission 
 
-Thur., August 25th, 2022: Author Notification
+Thur, August 24, 2023: Author Notification
 
-Thur, Sept. 8, 2022: Camera-ready Copy for Accepted Submissions
+Thur, Sept. 8, 2023: Camera-ready Copy for Accepted Submissions
 
-Sun. Oct 16 (tentative), 2022: VDS Workshop at IEEE VIS
-
-
-
-<!---
-~~Thur., May 20th, 2021, 5:00 pm PDT: Paper and Abstract Submission~~
-Thur., May 27th, 2021, 5:00 pm PDT: Paper and Abstract Submission
-
-~~Thur., June 10th, 2021: Author Notification~~
-Thur., June 17th, 2021: Author Notification
-
-~~Fri, June. 18, 2021: Camera-ready Copy for Accepted Submissions~~
-Fri, June. 25, 2021: Camera-ready Copy for Accepted Submissions
-
-August 14, 5pm - 9pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Workshop at ACM KDD
-
-
-October 24-29, 2021: VDS Symposium at IEEE VIS
---->
-
-
-
-<!---### Opportunity to Present at IEEE VIS
-
-In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (hybrid) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2022/welcome) in October 2022. --->
+Sun. Oct 16 (tentative), 2023: VDS Workshop at IEEE VIS

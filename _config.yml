@@ -1,17 +1,14 @@
 # Site settings
-title: "Visualization in Data Science (VDS at ACM KDD and IEEE VIS)"
+title: "Visualization in Data Science (VDS at IEEE VIS)"
 email: "vds@ieeevis.org"
-description: "Visualization in Data Science (VDS at ACM KDD 2022 and IEEE VIS 2022)"
-baseurl: "/2022"
+description: "Visualization in Data Science (VDS at IEEE VIS 2023)"
+baseurl: "/2023"
 url: "http://www.visualdatascience.org/"
-conferenceshort: "VDS 2022"
+conferenceshort: "VDS 2023"
 conferencedate: "TBD" 
 
-deadline_submission:  "Thur., <s>May 26th</s> June 2nd, 2022, 5:00 pm PDT"
-deadline_notification: "Mon., <s>June 20th</s>, 2022, 5:00 pm PDT"
-deadline_submission_vis:  "Thur., <s>July 14th</s>, 2022, 5:00 pm PDT"
-deadline_notification_vis: "Thur., <s>August 25th</s>, 2022, 5:00 pm PDT"
-event_date: "<s>August 14</s>" 
+deadline_submission_vis:  "Thur., <s>July 14th</s>, 2023, 5:00 pm PDT"
+deadline_notification_vis: "Thur., <s>August 25th</s>, 2023, 5:00 pm PDT"
 event2_date: "October 16"
 
 # Build settings
