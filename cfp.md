@@ -35,10 +35,10 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 #### VDS @ VIS Important Dates
 
-Thur, Jul. 13, 2023 5:00 pm AOE: Paper and Abstract Submission 
+Thur, Jul. 13, 2023 11:59 pm AOE: Paper and Abstract Submission 
 
-Thur, Aug. 24, 2023: Author Notification
+Thur, Aug. 24, 2023 11:59 pm AOE: Author Notification
 
-Thur, Sept. 8, 2023: Camera-ready Copy for Accepted Submissions
+Thur, Sept. 8, 2023 11:59 pm AOE: Camera-ready Copy for Accepted Submissions
 
 Sun, Oct. 16 (tentative), 2023: VDS Workshop at IEEE VIS
