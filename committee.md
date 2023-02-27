@@ -19,7 +19,7 @@ Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts inter
 
 **[Michael Behrisch]( https://mbehrisch.github.io/)**
 
-
+Michael Behrisch is a Tenured Assistant Professor for Visual Analytics (UD1) in the Visualization and Graphics Group at the Utrecht University, Department of Information and Computing Sciences. His research focuses on novel visual interactive techniques, algorithmic approaches, and integrated visual analytics systems to support users in navigating and exploring large amounts of relational data.
 
 ### Web/Tech Chair
 
@@ -31,7 +31,7 @@ Jorge Piazentin Ono is a Research Scientist at Bosch Research. His research lies
 
 **[Shayan Monadjemi](https://smonadjemi.github.io/)**
 
-
+Shayan Monadjemi is a Ph.D. candidate in the Visual Data Analysis Group at Washington University in St. Louis and a Pathways intern in the Intelligent Systems Division at NASA Ames Research Center. His research investigates visual analytic systems which learn from user interactions and assist users in making sense of data.
 
 ### Steering Committee
 
