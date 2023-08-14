@@ -37,7 +37,7 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 Thur, Jul. 20, 2023 11:59 pm AOE: Paper and Abstract Submission 
 
-Thur, Aug. 10, 2023 11:59 pm AOE: Author Notification
+Thur, Aug. 14, 2023 11:59 pm AOE: Author Notification
 
 Thur, Sept. 8, 2023 11:59 pm AOE: Camera-ready Copy for Accepted Submissions
 
