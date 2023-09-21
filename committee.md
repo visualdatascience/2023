@@ -35,10 +35,6 @@ Shayan Monadjemi is a Ph.D. candidate in the Visual Data Analysis Group at Washi
 
 ### Steering Committee
 
-**[Alexander Lex](http://alexander-lex.net/)** 
-
-Alex is an assistant professor of computer science at the Scientific Computing and Imaging Institute and the School of Computing at the University of Utah. He develops interactive data analysis methods for experts and scientists. His primary research interests are interactive data visualization and analysis especially applied to molecular biology and graph visualization.
-
 **[Torsten Möller](https://cs.univie.ac.at/Torsten.Möller)**  
  
  Torsten Möller is a professor of computer science at the University of Vienna, Austria where he heads the research platform [Data Science @ Uni Vienna](http://datascience.univie.ac.at) as well as the research group on [Visualization and Data Analysis](http://vda.cs.univie.ac.at). Since 2018, he serves as the editor-in-chief for IEEE Computer Graphics and Applications.
