@@ -35,7 +35,6 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 - [Shayan Monadjemi](https://smonadjemi.github.io/), Washington University in St. Louis 
 
 ## Steering Committee
-- [Alexander Lex](http://alexander-lex.net/), University of Utah
 
 - [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), University of Vienna 
 
